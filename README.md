@@ -23,6 +23,9 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 * [Tensorflow](https://www.tensorflow.org/)
 * [PyTorch](http://pytorch.org/)
+* [Theano](http://deeplearning.net/software/theano/)
+
+***
 
 ## Blogs
 
@@ -31,6 +34,8 @@ A collection of useful resources for everyone interested in Machine Learning, De
 * [Distill](http://distill.pub/)
 * [Google Research](https://research.googleblog.com/)
 * [OpenAI](https://blog.openai.com/)
+
+***
 
 ## Discussion Groups
 
