@@ -9,6 +9,9 @@ A collection of useful resources for everyone interested in Machine Learning, De
   * [Probability Theory](#probability-theory)
   * [Linear Algebra](#linear-algebra)
   * [Optimization](#optimization)
+* [Machine Learning](#machine-learning)
+  * [General](#general)
+  * [Frameworks](#frameworks)
 * [Deep Learning](#deep-learning)
   * [General](#general)
   * [Frameworks](#frameworks)
@@ -30,6 +33,18 @@ A collection of useful resources for everyone interested in Machine Learning, De
 ### Optimization
 
 * [Convex Optimization Overview](http://cs229.stanford.edu/section/cs229-cvxopt.pdf) by Zico Kolter
+
+***
+
+## Machine Learning
+
+### General
+
+* cs229: Machine Learning [(Lecture notes)](http://cs229.stanford.edu/notes/cs229-notes1.pdf) [(Materials)](http://cs229.stanford.edu/materials.html) by Andrew Ng
+
+### Frameworks
+
+* [scikit-learn](http://scikit-learn.org/stable/)
 
 ***
 
