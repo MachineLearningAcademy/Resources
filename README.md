@@ -38,11 +38,11 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 ## Machine Learning
 
-### General Ml
+### General ML
 
 * cs229: Machine Learning [(Lecture notes)](http://cs229.stanford.edu/notes/cs229-notes1.pdf) [(Materials)](http://cs229.stanford.edu/materials.html) by Andrew Ng
 
-### Frameworks Ml
+### Frameworks ML
 
 * [scikit-learn](http://scikit-learn.org/stable/)
 
@@ -50,12 +50,12 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 ## Deep Learning
 
-### General Dl
+### General DL
 
 * [Deep Learning (Book)](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press, 2016
 * [*Wildml.com* Deep Learning Glossary](http://www.wildml.com/deep-learning-glossary)
 
-### Frameworks Dl
+### Frameworks DL
 
 * [Tensorflow](https://www.tensorflow.org/)
 * [PyTorch](http://pytorch.org/)
