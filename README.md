@@ -14,6 +14,7 @@ A collection of useful resources for everyone interested in Machine Learning, De
   * [Frameworks](#frameworks-ml)
 * [Deep Learning](#deep-learning)
   * [General](#general-dl)
+  * [Image Processing](#image-processing)
   * [Frameworks](#frameworks-dl)
 * [Blogs](#blogs)
 * [Discussion Groups](#discussion-groups)
@@ -53,7 +54,13 @@ A collection of useful resources for everyone interested in Machine Learning, De
 ### General DL
 
 * [Deep Learning (Book)](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press, 2016
+* [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) by Andrew Ng and others, Stanford University
 * [*Wildml.com* Deep Learning Glossary](http://www.wildml.com/deep-learning-glossary)
+* CS20SI: Tensorflow for Deep Learning Research [(Materials)](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen, Stanford University 
+
+### Image Processing
+
+* CS231n: Convolutional Neural Networks for Visual Recognition [(Materials)](http://cs231n.github.io/), Stanford University
 
 ### Frameworks DL
 
