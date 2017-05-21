@@ -41,7 +41,7 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 ### General ML
 
-* cs229: Machine Learning [(Lecture notes)](http://cs229.stanford.edu/notes/cs229-notes1.pdf) [(Materials)](http://cs229.stanford.edu/materials.html) by Andrew Ng
+* cs229: Machine Learning [(Lecture notes)](http://cs229.stanford.edu/notes/cs229-notes1.pdf) [(Materials)](https://see.stanford.edu/Course/CS229) by Andrew Ng
 
 ### Frameworks ML
 
