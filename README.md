@@ -57,6 +57,7 @@ A collection of useful resources for everyone interested in Machine Learning, De
 * [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) by Andrew Ng and others, Stanford University
 * [*Wildml.com* Deep Learning Glossary](http://www.wildml.com/deep-learning-glossary)
 * CS20SI: Tensorflow for Deep Learning Research [(Materials)](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen, Stanford University 
+* [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I) talk by Andrew Ng 
 
 ### Image Processing
 
