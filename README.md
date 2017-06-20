@@ -27,6 +27,8 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 * [Review of Probability Theory](http://cs229.stanford.edu/section/cs229-prob.pdf) by Arian Maleki and Tom Do
 
+* [Probability Theory Review for Machine Learning](https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf) by Samuel Ieong
+
 ### Linear Algebra
 
 * [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf) by Zico Kolter
@@ -35,13 +37,25 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 * [Convex Optimization Overview](http://cs229.stanford.edu/section/cs229-cvxopt.pdf) by Zico Kolter
 
-***
+### Hidden Markov Models
+
+* [Hidden Markov Models Fundamentals](https://see.stanford.edu/materials/aimlcs229/cs229-hmm.pdf) by Daniel Ramage
+
+### Gaussians
+
+* [The Multivariate Gaussian Distribution](http://cs229.stanford.edu/section/gaussians.pdf) by Chuong B. Do
+
+* [More on Multivariate Gaussians](http://cs229.stanford.edu/section/more_on_gaussians.pdf) by Chuong B. Do
+
+* [Gaussian processes](http://cs229.stanford.edu/section/cs229-gaussian_processes.pdf) by Chuong B. Do (updated by Honglak Lee)
 
 ## Machine Learning
 
 ### General ML
 
 * cs229: Machine Learning [(Lecture notes)](http://cs229.stanford.edu/notes/cs229-notes1.pdf) [(Materials)](https://see.stanford.edu/Course/CS229) by Andrew Ng
+
+* Intro to Neural Networks and Machine Learning [(Materials)](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/) by Roger Grosse (University of Toronto)
 
 ### Frameworks ML
 
@@ -54,9 +68,13 @@ A collection of useful resources for everyone interested in Machine Learning, De
 ### General DL
 
 * [Deep Learning (Book)](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press, 2016
+
 * [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) by Andrew Ng and others, Stanford University
+
 * [*Wildml.com* Deep Learning Glossary](http://www.wildml.com/deep-learning-glossary)
+
 * CS20SI: Tensorflow for Deep Learning Research [(Materials)](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen, Stanford University 
+
 * [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I) talk by Andrew Ng 
 
 ### Image Processing
@@ -68,6 +86,8 @@ A collection of useful resources for everyone interested in Machine Learning, De
 * [Tensorflow](https://www.tensorflow.org/)
 * [PyTorch](http://pytorch.org/)
 * [Theano](http://deeplearning.net/software/theano/)
+* [Keras](https://keras.io/)
+* [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/)
 
 ***
 
