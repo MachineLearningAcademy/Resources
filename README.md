@@ -16,8 +16,13 @@ A collection of useful resources for everyone interested in Machine Learning, De
   * [General](#general-dl)
   * [Image Processing](#image-processing)
   * [Frameworks](#frameworks-dl)
+* [Reinforcement Learning](#reinforcement-learning)
+  * [Books](#books-rl)
+  * [Online Courses](#online-courses-rl)
+  * [Tutorials](#tutorials-rl)
 * [Blogs](#blogs)
 * [Discussion Groups](#discussion-groups)
+* [Other](#other)
 
 ***
 
@@ -29,13 +34,19 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 * [Probability Theory Review for Machine Learning](https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf) by Samuel Ieong
 
+* [Deep Learning (Chapter 3) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/contents/prob.html) *Includes Information Theory Review
+
 ### Linear Algebra
 
 * [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf) by Zico Kolter
 
+* [Deep Learning (Chapter 2) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/contents/linear_algebra.html)
+
 ### Optimization
 
 * [Convex Optimization Overview](http://cs229.stanford.edu/section/cs229-cvxopt.pdf) by Zico Kolter
+
+* [Deep Learning (Chapter 4) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/contents/numerical.html)
 
 ### Hidden Markov Models
 
@@ -53,9 +64,18 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 ### General ML
 
+#### Books
+
+* [Machine Learning: A Probabilistic Perspective by Kevin Murphy, MIT Press (2012)](https://mitpress.mit.edu/books/machine-learning-0)
+
+* [Pattern Recognition and Machine Learning by Christopher M. Bishop, Springer (2011)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+
+#### Other
 * cs229: Machine Learning [(Lecture notes)](http://cs229.stanford.edu/notes/cs229-notes1.pdf) [(Materials)](https://see.stanford.edu/Course/CS229) by Andrew Ng
 
 * Intro to Neural Networks and Machine Learning [(Materials)](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/) by Roger Grosse (University of Toronto)
+
+* [Deep Learning (Chapter 5) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/contents/ml.html)
 
 ### Frameworks ML
 
@@ -67,7 +87,11 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 ### General DL
 
-* [Deep Learning (Book)](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press, 2016
+#### Books
+
+* [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/) 
+
+#### Other
 
 * [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) by Andrew Ng and others, Stanford University
 
@@ -91,6 +115,27 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 ***
 
+## Reinforcement-Learning
+
+### Books RL
+
+* [Reinforcement Learning:
+An Introduction by Richard S. Sutton and Andrew G. Barto, MIT Press (2017)](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf) *Draft
+
+### Online Courses RL
+
+* [UCL Course on RL by David Silver (Google Deepmind)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
+* [Reinforcement Learning by C. Isbell, M. Littman and C. Pryby (Georgia Tech/Udacity)](https://www.udacity.com/course/reinforcement-learning--ud600)
+
+### Tutorials RL
+
+* [Introduction to Reinforcement Learning by Joelle Pineau (McGill University)](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/)
+
+* [Denny Britz Implementation of Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
+
+***
+
 ## Blogs
 
 * [WildML](http://www.wildml.com/)
@@ -104,3 +149,10 @@ A collection of useful resources for everyone interested in Machine Learning, De
 ## Discussion Groups
 
 * [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+* [DataTau](http://www.datatau.com/)
+
+***
+
+## Other
+
+* [AI Conference Deadlines](https://aideadlin.es/)
