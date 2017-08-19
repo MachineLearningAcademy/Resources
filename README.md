@@ -21,8 +21,9 @@ A collection of useful resources for everyone interested in Machine Learning, De
   * [Books](#books-rl)
   * [Online Courses](#online-courses-rl)
   * [Tutorials](#tutorials-rl)
-* [Specific Tasks](#specific-tasks]
+* [Specific Tasks](#specific-tasks)
   * [Image processing](#image-processing)
+  * [Natural Language Processing](#natural-language-processing)
 * [Blogs](#blogs)
 * [Discussion Groups](#discussion-groups)
 * [Other](#other)
@@ -80,7 +81,7 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 * Intro to Neural Networks and Machine Learning [(Materials)](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/) by Roger Grosse (University of Toronto)
 
-* [Neural Networks for Machine Learning by Geoffrey Hinton (University of Toronto/Coursera](https://www.coursera.org/learn/neural-networks)
+* [Neural Networks for Machine Learning by Geoffrey Hinton (University of Toronto/Coursera)](https://www.coursera.org/learn/neural-networks)
 
 * [Machine Learning by Yaser Abu-Mostafa (Caltech)](https://work.caltech.edu/telecourse.html)
 
@@ -103,6 +104,8 @@ A collection of useful resources for everyone interested in Machine Learning, De
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/) 
 
 #### Online Courses DL
+
+* [Deep Learnng Specialization by Andrew Ng](https://pt.coursera.org/specializations/deep-learning) *5 individual courses
 
 * [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) by Andrew Ng and others, Stanford University
 
@@ -157,6 +160,32 @@ An Introduction by Richard S. Sutton and Andrew G. Barto, MIT Press (2017)](http
 
 * CS231n: Convolutional Neural Networks for Visual Recognition [(Materials)](http://cs231n.github.io/), Stanford University
 
+### Natural Language Processing
+
+#### Online Courses 
+
+* [Natural Language Processing by Noah Smith](http://courses.cs.washington.edu/courses/csep517/17sp/)
+
+* [Natural Language Processing with Deep Learning by Chris Manning and Richard Socher (Stanford University)](http://web.stanford.edu/class/cs224n/)
+
+* [Probability and Structure in Natural Language Processing by Noah Smith](https://homes.cs.washington.edu/~nasmith/psnlp-2014/)
+
+* [Algorithms for NLP by Taylor Berg-Kirkpatrick and Robert Frederking](http://www.cs.cmu.edu/~tbergkir/11711fa16/)
+
+* [Machine Translation and Sequence to Sequence Models by Graham Neubig](http://www.phontron.com/class/mtandseq2seq2017/)
+
+#### Tutorials
+
+* [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
+
+* [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
+
+#### Other
+
+* [The amazing power of word vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
+
+* [Deep Learning, NLP and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+
 ***
 
 ## Blogs
@@ -166,6 +195,7 @@ An Introduction by Richard S. Sutton and Andrew G. Barto, MIT Press (2017)](http
 * [Distill](http://distill.pub/)
 * [Google Research](https://research.googleblog.com/)
 * [OpenAI](https://blog.openai.com/)
+* [Chris Albon Notes](https://chrisalbon.com/)
 
 ***
 
