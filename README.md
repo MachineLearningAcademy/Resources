@@ -9,17 +9,20 @@ A collection of useful resources for everyone interested in Machine Learning, De
   * [Probability Theory](#probability-theory)
   * [Linear Algebra](#linear-algebra)
   * [Optimization](#optimization)
+  * [Hidden Markov Models](#hidden-markov-models)
+  * [Gaussians](#gaussians)
 * [Machine Learning](#machine-learning)
   * [General](#general-ml)
   * [Frameworks](#frameworks-ml)
 * [Deep Learning](#deep-learning)
   * [General](#general-dl)
-  * [Image Processing](#image-processing)
   * [Frameworks](#frameworks-dl)
 * [Reinforcement Learning](#reinforcement-learning)
   * [Books](#books-rl)
   * [Online Courses](#online-courses-rl)
   * [Tutorials](#tutorials-rl)
+* [Specific Tasks](#specific-tasks]
+  * [Image processing](#image-processing)
 * [Blogs](#blogs)
 * [Discussion Groups](#discussion-groups)
 * [Other](#other)
@@ -64,16 +67,24 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 ### General ML
 
-#### Books
+#### Books ML
 
 * [Machine Learning: A Probabilistic Perspective by Kevin Murphy, MIT Press (2012)](https://mitpress.mit.edu/books/machine-learning-0)
 
 * [Pattern Recognition and Machine Learning by Christopher M. Bishop, Springer (2011)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 
-#### Other
+#### Online Courses ML
+
+* [Machine Learning by Andrew Ng (Stanford University/Coursera)](https://www.coursera.org/learn/machine-learning/)
 * cs229: Machine Learning [(Lecture notes)](http://cs229.stanford.edu/notes/cs229-notes1.pdf) [(Materials)](https://see.stanford.edu/Course/CS229) by Andrew Ng
 
 * Intro to Neural Networks and Machine Learning [(Materials)](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/) by Roger Grosse (University of Toronto)
+
+* [Neural Networks for Machine Learning by Geoffrey Hinton (University of Toronto/Coursera](https://www.coursera.org/learn/neural-networks)
+
+* [Machine Learning by Yaser Abu-Mostafa (Caltech)](https://work.caltech.edu/telecourse.html)
+
+#### Others ML
 
 * [Deep Learning (Chapter 5) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/contents/ml.html)
 
@@ -87,23 +98,21 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 ### General DL
 
-#### Books
+#### Books DL
 
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/) 
 
-#### Other
+#### Online Courses DL
 
 * [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) by Andrew Ng and others, Stanford University
 
-* [*Wildml.com* Deep Learning Glossary](http://www.wildml.com/deep-learning-glossary)
-
 * CS20SI: Tensorflow for Deep Learning Research [(Materials)](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen, Stanford University 
 
+#### Other DL
+
+* [*Wildml.com* Deep Learning Glossary](http://www.wildml.com/deep-learning-glossary)
+
 * [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I) talk by Andrew Ng 
-
-### Image Processing
-
-* CS231n: Convolutional Neural Networks for Visual Recognition [(Materials)](http://cs231n.github.io/), Stanford University
 
 ### Frameworks DL
 
@@ -128,11 +137,25 @@ An Introduction by Richard S. Sutton and Andrew G. Barto, MIT Press (2017)](http
 
 * [Reinforcement Learning by C. Isbell, M. Littman and C. Pryby (Georgia Tech/Udacity)](https://www.udacity.com/course/reinforcement-learning--ud600)
 
+* [Deep Reinforcement Learning by S. Levine, A. Gupta and J. Achiam (Berkeley)](http://rll.berkeley.edu/deeprlcourse/)
+
 ### Tutorials RL
+
+* [Denny Britz Implementation of Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
 
 * [Introduction to Reinforcement Learning by Joelle Pineau (McGill University)](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/)
 
-* [Denny Britz Implementation of Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
+* [Tutorial: Deep Reinforcement Learning by David Silver](http://techtalks.tv/talks/deep-reinforcement-learning/62360/)
+
+***
+
+## Specific Tasks
+
+### Image Processing
+
+#### Online Courses
+
+* CS231n: Convolutional Neural Networks for Visual Recognition [(Materials)](http://cs231n.github.io/), Stanford University
 
 ***
 
