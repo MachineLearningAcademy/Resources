@@ -89,6 +89,8 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 * [Deep Learning (Chapter 5) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/contents/ml.html)
 
+* [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
+
 ### Frameworks ML
 
 * [scikit-learn](http://scikit-learn.org/stable/)
