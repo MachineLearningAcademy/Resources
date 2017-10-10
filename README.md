@@ -144,6 +144,8 @@ An Introduction by Richard S. Sutton and Andrew G. Barto, MIT Press (2017)](http
 
 * [Deep Reinforcement Learning by S. Levine, A. Gupta and J. Achiam (Berkeley)](http://rll.berkeley.edu/deeprlcourse/)
 
+* [Deep RL Bootcamp (Berkeley CA)](https://sites.google.com/view/deep-rl-bootcamp/home?authuser=0)
+
 ### Tutorials RL
 
 * [Denny Britz Implementation of Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
