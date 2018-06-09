@@ -134,7 +134,7 @@ A collection of useful resources for everyone interested in Machine Learning, De
 ### Books RL
 
 * [Reinforcement Learning:
-An Introduction by Richard S. Sutton and Andrew G. Barto, MIT Press (2017)](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf) *Draft
+An Introduction by Richard S. Sutton and Andrew G. Barto, MIT Press (2018)](http://incompleteideas.net/book/the-book-2nd.html) *Draft
 
 ### Online Courses RL
 
