@@ -85,6 +85,8 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 * [Machine Learning by Yaser Abu-Mostafa (Caltech)](https://work.caltech.edu/telecourse.html)
 
+* [Foundations of Machine Learning by David Rosenberg (Bloomberg ML EDU)](https://bloomberg.github.io/foml/#home)
+
 #### Others ML
 
 * [Deep Learning (Chapter 5) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/contents/ml.html)
