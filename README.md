@@ -44,13 +44,13 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 * [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf) by Zico Kolter
 
-* [Deep Learning (Chapter 2) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/contents/linear_algebra.html)
+* [Deep Learning (Chapter 2)](http://www.deeplearningbook.org/contents/linear_algebra.html) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)
 
 ### Optimization
 
 * [Convex Optimization Overview](http://cs229.stanford.edu/section/cs229-cvxopt.pdf) by Zico Kolter
 
-* [Deep Learning (Chapter 4) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/contents/numerical.html)
+* [Deep Learning (Chapter 4)](http://www.deeplearningbook.org/contents/numerical.html) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)
 
 ### Hidden Markov Models
 
@@ -70,26 +70,26 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 #### Books ML
 
-* [Machine Learning: A Probabilistic Perspective by Kevin Murphy, MIT Press (2012)](https://mitpress.mit.edu/books/machine-learning-0)
+* [Machine Learning: A Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-0) by Kevin Murphy, MIT Press (2012)
 
-* [Pattern Recognition and Machine Learning by Christopher M. Bishop, Springer (2011)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+* [Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) by Christopher M. Bishop, Springer (2011)
 
 #### Online Courses ML
 
-* [Machine Learning by Andrew Ng (Stanford University/Coursera)](https://www.coursera.org/learn/machine-learning/)
+* [Machine Learning](https://www.coursera.org/learn/machine-learning/) by Andrew Ng (Stanford University/Coursera)
 * cs229: Machine Learning [(Lecture notes)](http://cs229.stanford.edu/notes/cs229-notes1.pdf) [(Materials)](https://see.stanford.edu/Course/CS229) by Andrew Ng
 
 * Intro to Neural Networks and Machine Learning [(Materials)](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/) by Roger Grosse (University of Toronto)
 
-* [Neural Networks for Machine Learning by Geoffrey Hinton (University of Toronto/Coursera)](https://www.coursera.org/learn/neural-networks)
+* [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) by Geoffrey Hinton (University of Toronto/Coursera)
 
-* [Machine Learning by Yaser Abu-Mostafa (Caltech)](https://work.caltech.edu/telecourse.html)
+* [Machine Learning](https://work.caltech.edu/telecourse.html) by Yaser Abu-Mostafa (Caltech)
 
-* [Foundations of Machine Learning by David Rosenberg (Bloomberg ML EDU)](https://bloomberg.github.io/foml/#home)
+* [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) by David Rosenberg (Bloomberg ML EDU)
 
 #### Others ML
 
-* [Deep Learning (Chapter 5) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/contents/ml.html)
+* [Deep Learning (Chapter 5)](http://www.deeplearningbook.org/contents/ml.html) by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)
 
 * [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
@@ -105,11 +105,11 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 #### Books DL
 
-* [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)](http://www.deeplearningbook.org/) 
+* [Deep Learning](http://www.deeplearningbook.org/)  by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press (2016)
 
 #### Online Courses DL
 
-* [Deep Learnng Specialization by Andrew Ng](https://pt.coursera.org/specializations/deep-learning) *5 individual courses
+* [Deep Learnng Specialization](https://pt.coursera.org/specializations/deep-learning)  by Andrew Ng *5 individual courses
 
 * [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) by Andrew Ng and others, Stanford University
 
@@ -136,15 +136,15 @@ A collection of useful resources for everyone interested in Machine Learning, De
 ### Books RL
 
 * [Reinforcement Learning:
-An Introduction by Richard S. Sutton and Andrew G. Barto, MIT Press (2018)](http://incompleteideas.net/book/the-book-2nd.html) *Draft
+An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by Richard S. Sutton and Andrew G. Barto, MIT Press (2018)  *Draft 
 
 ### Online Courses RL
 
-* [UCL Course on RL by David Silver (Google Deepmind)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver (Google Deepmind)
 
-* [Reinforcement Learning by C. Isbell, M. Littman and C. Pryby (Georgia Tech/Udacity)](https://www.udacity.com/course/reinforcement-learning--ud600)
+* [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) by C. Isbell, M. Littman and C. Pryby (Georgia Tech/Udacity)
 
-* [Deep Reinforcement Learning by S. Levine, A. Gupta and J. Achiam (Berkeley)](http://rll.berkeley.edu/deeprlcourse/)
+* [Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/) by S. Levine, A. Gupta and J. Achiam (Berkeley)
 
 * [Deep RL Bootcamp (Berkeley CA)](https://sites.google.com/view/deep-rl-bootcamp/home?authuser=0)
 
@@ -152,9 +152,9 @@ An Introduction by Richard S. Sutton and Andrew G. Barto, MIT Press (2018)](http
 
 * [Denny Britz Implementation of Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
 
-* [Introduction to Reinforcement Learning by Joelle Pineau (McGill University)](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/)
+* [Introduction to Reinforcement Learning)](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/) by Joelle Pineau (McGill University
 
-* [Tutorial: Deep Reinforcement Learning by David Silver](http://techtalks.tv/talks/deep-reinforcement-learning/62360/)
+* [Tutorial: Deep Reinforcement Learning](http://techtalks.tv/talks/deep-reinforcement-learning/62360/) by David Silver
 
 ***
 
@@ -170,15 +170,15 @@ An Introduction by Richard S. Sutton and Andrew G. Barto, MIT Press (2018)](http
 
 #### Online Courses 
 
-* [Natural Language Processing by Noah Smith](http://courses.cs.washington.edu/courses/csep517/17sp/)
+* [Natural Language Processing](http://courses.cs.washington.edu/courses/csep517/17sp/) by Noah Smith
 
-* [Natural Language Processing with Deep Learning by Chris Manning and Richard Socher (Stanford University)](http://web.stanford.edu/class/cs224n/)
+* [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) by Chris Manning and Richard Socher (Stanford University)
 
-* [Probability and Structure in Natural Language Processing by Noah Smith](https://homes.cs.washington.edu/~nasmith/psnlp-2014/)
+* [Probability and Structure in Natural Language Processing](https://homes.cs.washington.edu/~nasmith/psnlp-2014/) by Noah Smith
 
-* [Algorithms for NLP by Taylor Berg-Kirkpatrick and Robert Frederking](http://www.cs.cmu.edu/~tbergkir/11711fa16/)
+* [Algorithms for NLP](http://www.cs.cmu.edu/~tbergkir/11711fa16/) by Taylor Berg-Kirkpatrick and Robert Frederking
 
-* [Machine Translation and Sequence to Sequence Models by Graham Neubig](http://www.phontron.com/class/mtandseq2seq2017/)
+* [Machine Translation and Sequence to Sequence Models](http://www.phontron.com/class/mtandseq2seq2017/) by Graham Neubig
 
 #### Tutorials
 
