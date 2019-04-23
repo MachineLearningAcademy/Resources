@@ -87,7 +87,7 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 * cs229: Machine Learning [(Lecture notes)](http://cs229.stanford.edu/notes/cs229-notes1.pdf) [(Materials)](https://see.stanford.edu/Course/CS229) by Andrew Ng
 
-* Intro to Neural Networks and Machine Learning [(Materials)](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/) by Roger Grosse (University of Toronto)
+* [Intro to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/) by Roger Grosse (University of Toronto)
 
 * [Machine Learning](https://work.caltech.edu/telecourse.html) by Yaser Abu-Mostafa (Caltech)
 
@@ -155,7 +155,7 @@ An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-ed
 
 * [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver (Google Deepmind)
 
-* [Deep RL Bootcamp (Berkeley CA)](https://sites.google.com/view/deep-rl-bootcamp/home?authuser=0)
+* [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/home?authuser=0) by Berkeley (CA)
 
 ### Tutorials RL
 
