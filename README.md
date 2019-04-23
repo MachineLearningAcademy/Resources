@@ -117,15 +117,15 @@ A collection of useful resources for everyone interested in Machine Learning, De
 
 #### Online Courses DL
 
+* [Deep Learning](https://fleuret.org/ee559/) by François Fleuret, EPFL
+
 * [Deep Learnng Specialization](https://pt.coursera.org/specializations/deep-learning)  by Andrew Ng *5 individual courses
 
 * [Practical Deep Learning for Coders](https://course.fast.ai/) by fast.ai
 
 * [Cutting Edge Deep Learning For Coders](https://course18.fast.ai/part2.html) by fast.ai
 
-* [Deep Learning](https://fleuret.org/ee559/) by François Fleuret, EPFL
-
-* CS20SI: Tensorflow for Deep Learning Research [(Materials)](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen, Stanford University 
+* [CS20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen, Stanford University 
 
 #### Other DL
 
@@ -222,7 +222,7 @@ An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-ed
 ## Discussion Groups
 
 * [r/MachineLearning](https://old.reddit.com/r/MachineLearning/)
-* [r/dataacience](https://old.reddit.com/r/datascience/)
+* [r/datascience](https://old.reddit.com/r/datascience/)
 * [DataTau](http://www.datatau.com/)
 
 ***
