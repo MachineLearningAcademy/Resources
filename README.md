@@ -22,8 +22,13 @@ A collection of useful resources for everyone interested in Machine Learning, De
   * [Online Courses](#online-courses-rl)
   * [Tutorials](#tutorials-rl)
 * [Specific Tasks](#specific-tasks)
-  * [Image processing](#image-processing)
+  * [Computer Vision](#computer-vision)
+    * [Online Courses](#online-courses-cv)
+    * [Frameworks](#frameworks-cv)
   * [Natural Language Processing](#natural-language-processing)
+    * [Online Courses](#online-courses-nlp)
+    * [Tutorials](#tutorials-nlp)
+    * [Frameworks](#frameworks-nlp)
 * [Blogs](#blogs)
 * [Discussion Groups](#discussion-groups)
 * [Other](#other)
@@ -166,13 +171,13 @@ An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-ed
 
 ## Specific Tasks
 
-### Image Processing
+### Computer Vision
 
-#### Online Courses
+#### Online Courses CV
 
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/), Stanford University
 
-#### Frameworks
+#### Frameworks CV
 
 * [OpenCV](https://opencv.org/)
 
@@ -180,7 +185,7 @@ An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-ed
 
 ### Natural Language Processing
 
-#### Online Courses 
+#### Online Courses NLP
 
 * [Natural Language Processing](http://courses.cs.washington.edu/courses/csep517/17sp/) by Noah Smith
 
@@ -190,13 +195,13 @@ An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-ed
 
 * [Machine Translation and Sequence to Sequence Models](http://www.phontron.com/class/mtandseq2seq2017/) by Graham Neubig
 
-#### Tutorials
+#### Tutorials NLP
 
 * [A Primer on Neural Network Models for NLP](https://u.cs.biu.ac.il/~yogo/nnlp.pdf) by Yoav Goldberg
 
 * [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf) by Graham Neubig
 
-#### Frameworks
+#### Frameworks NLP
 
 * [spaCy](https://spacy.io/)
 
